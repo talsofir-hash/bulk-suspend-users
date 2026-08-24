@@ -1,0 +1,6 @@
+logs/
+users*.csv
+!users.example.csv
+leavers*.csv
+*.local.*
+secrets*.ps1
